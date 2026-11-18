@@ -1,0 +1,9 @@
+# Environnement virtuel Python
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Sauvegardes automatiques des notebooks
+.ipynb_checkpoints/
